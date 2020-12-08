@@ -1,1 +1,1 @@
-# CovidMisinformationDetection
+# CovidDisinformationDetection
