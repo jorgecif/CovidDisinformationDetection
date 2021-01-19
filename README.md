@@ -1,10 +1,33 @@
 # Detección de desinformación relacionada con la pandemia de COVID-19 por medio de técnicas de aprendizaje automático y procesamiento de lenguaje natural
 
+## Desarrollo (notebooks)
+- Scraping noticias Reuters: 
+  - ScrapingReuters.ipynb
+- Comparación de métodos de clasificación de noticias: 
+  - ComparacionMetodosClasificacionNoticias.ipynb
+- Comparación de métodos para la detección de desinformación: 
+  - ComparacionMetodosDeteccionDesinformacion.ipynb
+- Modelo para extracción de subtema: 
+  - ExtraccionSubtematica.ipynb
+- Modelo final - desarrollo: 
+  - ModeloFinal_DeteccionDesinformacionCOVID.ipynb
+- Modelo final - implementación: 
+  - ModeloFinal_implementacion.ipynb
+
+## Datos
+- data/CovidHeadlinesDataset2.xlsx
+- data/ReutersClasifiedNewsDataset.xlsx
+
+## Modelos entrenados
+- Modelo predicción tema: TrainedModels/Modelo_PrediccionTema
+- Modelo predicción alerta TrainedModels/Modelo_PrediccionAlerta
+- Modelo subtema: TrainedModels/Modelo_Subtema
+- Modelo final unificado: TrainedModels/Modelo_FinalUnificado
 
 ## Interfaz de TFM UNIR - Covid desinformation detector
 
 - URL: https://coviddisinformation.herokuapp.com/
-- Código: https://github.com/jorgecif/coviddisinformation
+- Repositorio de Código: https://github.com/jorgecif/coviddisinformation
 
 
 ## Algunas frases para pruebas
