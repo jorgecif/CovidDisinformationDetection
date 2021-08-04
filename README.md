@@ -1,9 +1,10 @@
 # Detección de desinformación relacionada con la pandemia de COVID-19 por medio de técnicas de aprendizaje automático y procesamiento de lenguaje natural
 
 ## Documento
-
+https://github.com/jorgecif/CovidDisinformationDetection/blob/main/Tesis_completa.pdf
 
 ## Artículo
+https://github.com/jorgecif/CovidDisinformationDetection/blob/main/Art%C3%ADculo.pdf
 
 ## Desarrollo (notebooks)
 - Scraping noticias Reuters: 
