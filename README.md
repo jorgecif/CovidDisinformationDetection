@@ -1,5 +1,10 @@
 # Detección de desinformación relacionada con la pandemia de COVID-19 por medio de técnicas de aprendizaje automático y procesamiento de lenguaje natural
 
+## Documento
+
+
+## Artículo
+
 ## Desarrollo (notebooks)
 - Scraping noticias Reuters: 
   - ScrapingReuters.ipynb
